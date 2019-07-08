@@ -12,3 +12,16 @@ Tem como responsabilidade "traduzir" o código compilado em **JAVA** para a ling
 
 #### Referências:
 >Java e Orientação a Objetos - [O que é Java - Cap.2 ](https://www.caelum.com.br/apostila-java-orientacao-objetos/o-que-e-java/) 
+
+## Outros assuntos:
+1. [Tipos primitivos]()
+2. [Orientação a Objetos]()
+3. [Arrays]()
+4. [Modificadores de Acesso e atributos de classe]()
+5. [Os 4 Pilares da Orientação a Objetos]()
+    - Abstração
+    - Herança
+    - Encapsulamento
+    - Poliformismo
+6. [Classes Abstratas]()
+7. [Interfaces]()
