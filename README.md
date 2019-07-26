@@ -17,7 +17,7 @@ Tem como responsabilidade "traduzir" o código compilado em **JAVA** para a ling
 ## Outros assuntos:
 1. [Orientação a Objetos](1-orientacao-objetos/orientacao-objetos.md)
 2. [Arrays e Collections](2-arrays-collections/arrays-e-collections.md)
-3. [Modificadores de Acesso e atributos de classe]()
+3. [Modificadores de Acesso e Atributos de Classe](3-modificadores-atributos/modificadores-acesso.md)
 4. [Os 4 Pilares da Orientação a Objetos]()
     - Abstração
     - Herança
